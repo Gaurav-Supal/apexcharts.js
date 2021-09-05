@@ -383,8 +383,8 @@ var optionsBar = {
   chart: {
     type: 'bar',
     height: 380,
-    width: '100%',
-    stacked: true,
+    //width: '100%',
+   // stacked: true,
   },
   plotOptions: {
     bar: {
